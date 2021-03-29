@@ -1,5 +1,7 @@
-/farming.db
-/farming.db.old
-/farming.fwl
-/farming.fwl.old
-/steam_autocloud.vdf
+*
+
+!.gitignore
+!saltybox.db
+!saltybox.db.old
+!saltybox.fwl
+!saltybox.fwl.old
